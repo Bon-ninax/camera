@@ -1,0 +1,91 @@
+﻿# ========== Unity 基本フォルダ ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+AssetStoreTools*
+Packages/com.unity.package-manager-ui/.*
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.unityproj
+*.sln
+*.csproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.booproj.meta
+*.svd.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb.meta
+*.VC.db.meta
+
+# ========== Visual Studio ==========
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.vcxproj
+*.status
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb.meta
+*.VC.db.meta
+
+# ========== macOS ==========
+.DS_Store
+*.DS_Store?
+
+# ========== iOS / Xcode ==========
+build/
+DerivedData/
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.xcodeproj
+
+# ========== Android ==========
+.gradle
+*.apk
+*.aar
+androidTest/
+android/
+app/build/
+
+# ========== Generated C++ ==========
+*.cpp
+*.h
+
+# ========== Burst Cache (optional) ==========
+[Bb]urstCache/
+
+# ========== その他不要ファイル ==========
+*.swp
+*.meta
+*.orig
+**/Library/
+**/ios/
